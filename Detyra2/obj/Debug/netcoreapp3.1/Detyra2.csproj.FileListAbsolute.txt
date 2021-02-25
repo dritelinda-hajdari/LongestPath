@@ -1,0 +1,13 @@
+C:\Users\DritelindaH\source\repos\Detyra2\Detyra2\bin\Debug\netcoreapp3.1\Detyra2.exe
+C:\Users\DritelindaH\source\repos\Detyra2\Detyra2\bin\Debug\netcoreapp3.1\Detyra2.deps.json
+C:\Users\DritelindaH\source\repos\Detyra2\Detyra2\bin\Debug\netcoreapp3.1\Detyra2.runtimeconfig.json
+C:\Users\DritelindaH\source\repos\Detyra2\Detyra2\bin\Debug\netcoreapp3.1\Detyra2.runtimeconfig.dev.json
+C:\Users\DritelindaH\source\repos\Detyra2\Detyra2\bin\Debug\netcoreapp3.1\Detyra2.dll
+C:\Users\DritelindaH\source\repos\Detyra2\Detyra2\bin\Debug\netcoreapp3.1\Detyra2.pdb
+C:\Users\DritelindaH\source\repos\Detyra2\Detyra2\obj\Debug\netcoreapp3.1\Detyra2.csprojAssemblyReference.cache
+C:\Users\DritelindaH\source\repos\Detyra2\Detyra2\obj\Debug\netcoreapp3.1\Detyra2.AssemblyInfoInputs.cache
+C:\Users\DritelindaH\source\repos\Detyra2\Detyra2\obj\Debug\netcoreapp3.1\Detyra2.AssemblyInfo.cs
+C:\Users\DritelindaH\source\repos\Detyra2\Detyra2\obj\Debug\netcoreapp3.1\Detyra2.csproj.CoreCompileInputs.cache
+C:\Users\DritelindaH\source\repos\Detyra2\Detyra2\obj\Debug\netcoreapp3.1\Detyra2.dll
+C:\Users\DritelindaH\source\repos\Detyra2\Detyra2\obj\Debug\netcoreapp3.1\Detyra2.pdb
+C:\Users\DritelindaH\source\repos\Detyra2\Detyra2\obj\Debug\netcoreapp3.1\Detyra2.genruntimeconfig.cache
